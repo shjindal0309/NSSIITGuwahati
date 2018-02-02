@@ -1,4 +1,4 @@
 # WebPages
-This Repo contains some of the web pages (of NSS IIT Guwahati) developed by me during my service to NSS IIT Guwahati
-
+Developed layout (Header,Footer & side box) of all the pages and complete About Us page of NSS, IIT Guwahati website
+http://www.iitg.ernet.in
 These Web pages are developed in Bootstrap.
