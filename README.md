@@ -1,4 +1,4 @@
 # WebPages
-This Page contains some of the web pages designed by me during my service to NSS IIT Guwahati
+This Repo contains some of the web pages (of NSS IIT Guwahati) developed by me during my service to NSS IIT Guwahati
 
-These Web pages are designed in Bootstrap so they are fully responsible pages
+These Web pages are developed in Bootstrap.
